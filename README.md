@@ -1,6 +1,6 @@
-# mapd
+# task-flow
 
-A new Flutter project.
+An easy and simple to-do list
 
 ## Getting Started
 
