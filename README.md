@@ -1,16 +1,24 @@
-# task-flow
+# TaskFlow
 
-An easy and simple to-do list
+TaskFlow is a simple to-do list mobile application built using Flutter. The app helps users create, manage, and track daily tasks.
 
-## Getting Started
+## 🚧Project Status
+This project is a learning project and is still under development with a few features that need modifications
 
-This project is a starting point for a Flutter application.
+## ✨Features
+- Add new tasks
+- Mark tasks as complete
+- Delete tasks
+- Simple and clean user interface
 
-A few resources to get you started if this is your first Flutter project:
+## 🔨Technologies Used
+- Flutter
+- Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ⚙️ How to Run the Project
+1. Clone the repository
+2. Open the project in VS Code or Android Studio
+3. Run `flutter pub get`
+4. Connect an emulator or physical device
+5. Run `flutter run`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
