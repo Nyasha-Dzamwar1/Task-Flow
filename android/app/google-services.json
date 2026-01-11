@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765759093917",
+    "project_id": "mapd1234",
+    "storage_bucket": "mapd1234.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765759093917:android:8e6ec28b38f134e76ae874",
+        "android_client_info": {
+          "package_name": "com.example.mapd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnJBrd-Gm4T0ljaKoE5lTFJw0wfwsxSXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
